@@ -36,13 +36,13 @@
 
 ##### Clone this repository
 
- - ```git clone https://github.com/KasRoudra/PyPhisher```
+ - ```git clone https://github.com/Mahdiklidari/Android-camera-hack```
 
 ##### Enter the directory
- - ```cd PyPhisher```
+ - ```cd Android-camera-hack```
 
 ##### Run the tool
- - ```python3 pyphisher.py```
+ - ```python3 Android-camera-hack.py```
 
 #### Or, directly run
 ```
