@@ -1,4 +1,4 @@
-<h1 align="center">ج Android camera hack </h1>
+<h1 align="center"> Android camera hack </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.7-green?style=for-the-badge">
